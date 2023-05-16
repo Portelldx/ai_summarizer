@@ -23,16 +23,16 @@ To use the AI Summarizer, follow these simple steps:
 
 ## Usage
 
-1. Enter the text you want to summarize.
-2. Choose the number of sentences you want in your summary.
-3. Click on the "Summarize" button.
-4. The summary will be displayed on the screen.
+1. Enter the text you want to summarize
+2. Choose the number of sentences you want in your summary
+3. Click on the "Summarize" button
+4. The summary will be displayed on the screen
 
 ## Achievements
 
 - Deploy a project using Vite
 - Responsive UI/UX using Tailwind CSS
 - RTK query API requests
-- History of requests using the local storage
+- History of last 5 requests using the local storage
 - Handle form events and catch errors
 - Implement copy to clipboard
