@@ -33,6 +33,6 @@ To use the AI Summarizer, follow these simple steps:
 - Deploy a project using Vite
 - Responsive UI/UX using Tailwind CSS
 - RTK query API requests
-- History of last 5 requests using the local storage
+- History of last requests using the local storage
 - Handle form events and catch errors
 - Implement copy to clipboard
