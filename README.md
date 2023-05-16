@@ -1,10 +1,10 @@
 # Project AI Summarizer
 
+AI Summarizer is a web-based NLP (Natural Language Processing) project that aims to summarize large texts using Machine Learning algorithms. This project is built using React, Vite, Redux Toolkit and Tailwind.
+
 ## Netifly build and deployment
 
 https://portelldx-sumz.netlify.app/
-
-AI Summarizer is a web-based NLP (Natural Language Processing) project that aims to summarize large texts using Machine Learning algorithms. This project is built using React, Vite, Redux Toolkit and Tailwind.
 
 ## Local deployment
 
